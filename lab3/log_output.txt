@@ -1,0 +1,3 @@
+2025-06-08 ERROR: Something went wrong
+2025-06-08 ERROR: Disk is full
+2025-06-08 ERROR: Out of memory
